@@ -17,7 +17,7 @@ namespace udemyApp
             }
             return convertedNumber;
             }
-            catch (Exception ex)
+            catch
             {
                 throw;
             }

@@ -2,24 +2,23 @@
 
 namespace udemyApp
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            try
-            {
-                string input = Console.ReadLine();
+            InputConverter inputConverter = new InputConverter();
+            CalculatorEngine calculatorEngine = new CalculatorEngine();
 
-                try
-                {
-                    StringToIntConverter stringToIntConverter = new StringToIntConverter();
-                    stringToIntConverter.convert(input);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine("There was an error with conversion: {0}", ex.Message);
-                }
-            }
+            Console.WriteLine("Enter a number...");
+            double firstNumber = inputConverter.convertInputToNumeric(Console.ReadLine());
+            Console.WriteLine("Enter another number...");
+            double secondNumber = inputConverter.convertInputToNumeric(Console.ReadLine());
+            Console.WriteLine("What do you want to do to the numbers?");
+            string operation = Console.ReadLine();
+
+            double result = calculatorEngine.calculate(operation, firstNumber, secondNumber);
+            
+            Console.WriteLine("The result = " + result);
         }
     }
 }
