@@ -4,17 +4,31 @@ namespace udemyApp
 {
     class Person
     {
-        public String name { get; set; }
-        public int age { get; set; }
-        public  String nickname { get; set; }
+        private String name { get; set; }
+        private int age { get; set; }
+        private  String nickname { get; set; }
 
-          public Person(String name, int age, String nickname)
+        public Person(String name, int age, String nickname)
         {
             this.name = name;
             this.age = age;
             this.nickname = nickname;
         }
 
+        public String getName()
+        {
+            return this.name;
+        }
+
+        public int getAge()
+        {
+            return this.age;
+        }
+
+        public String getNickname()
+        {
+            return this.nickname;
+        }
 
     }
 }
