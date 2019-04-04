@@ -9,18 +9,20 @@ namespace udemyApp
             Console.WriteLine("Hello, please tell me your name...");
             string input = Console.ReadLine();
 
-            if (input.Equals("Chris"))
+            switch (input)
             {
+                case "Chris":
                 Console.WriteLine("Hello Chris");
+                break;
+                case "Kate":
+                Console.WriteLine("You have your own laptop");
+                break;
+                default:
+                Console.WriteLine("Hello Chris");
+                break;
             }
-            else if (input.Equals("Kate"))
-            {
-                Console.WriteLine("Stop using my laptop");
-            }
-            else
-            {
-                Console.WriteLine("OMG intruder alert");
-            }
+
+            
         }
     }
 }
