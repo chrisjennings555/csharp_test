@@ -6,23 +6,11 @@ namespace udemyApp
     {
         static void Main(string[] args)
         {
-            string someText = "hello";
-            int someNumber = 11;
-            double anotherNumber = 11.5;
-            bool isTrue = true;
-            string input = Console.ReadLine();
-            int convertInputToNumber;
-            int.TryParse(input, out convertInputToNumber);
-            int squareInput = convertInputToNumber * convertInputToNumber;
-            var anything = 11.6;
+            string someText = "first";
+            string otherText = "second";
+            string formattedText = string.Format("{0} {1} third", someText, otherText);
 
-            Console.WriteLine(someText);
-            Console.WriteLine(someNumber);
-            Console.WriteLine(anotherNumber);
-            Console.WriteLine(isTrue);
-            Console.WriteLine("Inputted number = " + input);
-            Console.WriteLine(anything);
-            Console.WriteLine(squareInput);
+            Console.WriteLine(formattedText);
         }
     }
 }
