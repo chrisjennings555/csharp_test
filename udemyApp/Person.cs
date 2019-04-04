@@ -30,6 +30,11 @@ namespace udemyApp
             return this.nickname;
         }
 
+        public static String greet()
+        {
+            return "Hello!";
+        }
+
     }
 }
 

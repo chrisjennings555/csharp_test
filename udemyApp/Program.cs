@@ -6,11 +6,20 @@ namespace udemyApp
     {
         static void Main(string[] args)
         {
-            Person person1 = new Person("Chris", 30, "Legend");
+            try
+            {
+                string input = Console.ReadLine();
 
-            Console.WriteLine(person1.getName());
-            Console.WriteLine(person1.getAge());
-            Console.WriteLine(person1.getNickname());
+                try
+                {
+                    StringToIntConverter stringToIntConverter = new StringToIntConverter();
+                    stringToIntConverter.convert(input);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("There was an error with conversion: {0}", ex.Message);
+                }
+            }
         }
     }
 }
