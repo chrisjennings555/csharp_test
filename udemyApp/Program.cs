@@ -6,11 +6,21 @@ namespace udemyApp
     {
         static void Main(string[] args)
         {
-            string someText = "first";
-            string otherText = "second";
-            string formattedText = string.Format("{0} {1} third", someText, otherText);
+            Console.WriteLine("Hello, please tell me your name...");
+            string input = Console.ReadLine();
 
-            Console.WriteLine(formattedText);
+            if (input.Equals("Chris"))
+            {
+                Console.WriteLine("Hello Chris");
+            }
+            else if (input.Equals("Kate"))
+            {
+                Console.WriteLine("Stop using my laptop");
+            }
+            else
+            {
+                Console.WriteLine("OMG intruder alert");
+            }
         }
     }
 }
