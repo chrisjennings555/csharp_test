@@ -7,9 +7,9 @@ namespace udemyApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, please tell me your name...");
-            string input = Console.ReadLine();
+            string username = Console.ReadLine();
 
-            switch (input)
+            switch (username)
             {
                 case "Chris":
                 Console.WriteLine("Hello Chris");
@@ -18,7 +18,7 @@ namespace udemyApp
                 Console.WriteLine("You have your own laptop");
                 break;
                 default:
-                Console.WriteLine("Hello Chris");
+                Console.WriteLine("INTRUDER");
                 break;
             }
 
