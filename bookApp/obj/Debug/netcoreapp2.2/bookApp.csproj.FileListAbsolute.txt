@@ -1,0 +1,11 @@
+/Users/chris/CodeClan/Csharp/bookApp/bin/Debug/netcoreapp2.2/bookApp.deps.json
+/Users/chris/CodeClan/Csharp/bookApp/bin/Debug/netcoreapp2.2/bookApp.runtimeconfig.json
+/Users/chris/CodeClan/Csharp/bookApp/bin/Debug/netcoreapp2.2/bookApp.runtimeconfig.dev.json
+/Users/chris/CodeClan/Csharp/bookApp/bin/Debug/netcoreapp2.2/bookApp.dll
+/Users/chris/CodeClan/Csharp/bookApp/bin/Debug/netcoreapp2.2/bookApp.pdb
+/Users/chris/CodeClan/Csharp/bookApp/obj/Debug/netcoreapp2.2/bookApp.csprojAssemblyReference.cache
+/Users/chris/CodeClan/Csharp/bookApp/obj/Debug/netcoreapp2.2/bookApp.csproj.CoreCompileInputs.cache
+/Users/chris/CodeClan/Csharp/bookApp/obj/Debug/netcoreapp2.2/bookApp.AssemblyInfoInputs.cache
+/Users/chris/CodeClan/Csharp/bookApp/obj/Debug/netcoreapp2.2/bookApp.AssemblyInfo.cs
+/Users/chris/CodeClan/Csharp/bookApp/obj/Debug/netcoreapp2.2/bookApp.dll
+/Users/chris/CodeClan/Csharp/bookApp/obj/Debug/netcoreapp2.2/bookApp.pdb

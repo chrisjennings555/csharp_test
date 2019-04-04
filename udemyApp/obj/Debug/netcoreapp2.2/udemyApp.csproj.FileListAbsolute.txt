@@ -1,0 +1,11 @@
+/Users/chris/CodeClan/Csharp/udemyApp/bin/Debug/netcoreapp2.2/udemyApp.deps.json
+/Users/chris/CodeClan/Csharp/udemyApp/bin/Debug/netcoreapp2.2/udemyApp.runtimeconfig.json
+/Users/chris/CodeClan/Csharp/udemyApp/bin/Debug/netcoreapp2.2/udemyApp.runtimeconfig.dev.json
+/Users/chris/CodeClan/Csharp/udemyApp/bin/Debug/netcoreapp2.2/udemyApp.dll
+/Users/chris/CodeClan/Csharp/udemyApp/bin/Debug/netcoreapp2.2/udemyApp.pdb
+/Users/chris/CodeClan/Csharp/udemyApp/obj/Debug/netcoreapp2.2/udemyApp.csprojAssemblyReference.cache
+/Users/chris/CodeClan/Csharp/udemyApp/obj/Debug/netcoreapp2.2/udemyApp.csproj.CoreCompileInputs.cache
+/Users/chris/CodeClan/Csharp/udemyApp/obj/Debug/netcoreapp2.2/udemyApp.AssemblyInfoInputs.cache
+/Users/chris/CodeClan/Csharp/udemyApp/obj/Debug/netcoreapp2.2/udemyApp.AssemblyInfo.cs
+/Users/chris/CodeClan/Csharp/udemyApp/obj/Debug/netcoreapp2.2/udemyApp.dll
+/Users/chris/CodeClan/Csharp/udemyApp/obj/Debug/netcoreapp2.2/udemyApp.pdb

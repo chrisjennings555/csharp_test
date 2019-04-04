@@ -1,0 +1,11 @@
+/Users/chris/CodeClan/Csharp/helloApp/bin/Debug/netcoreapp2.2/helloApp.deps.json
+/Users/chris/CodeClan/Csharp/helloApp/bin/Debug/netcoreapp2.2/helloApp.runtimeconfig.json
+/Users/chris/CodeClan/Csharp/helloApp/bin/Debug/netcoreapp2.2/helloApp.runtimeconfig.dev.json
+/Users/chris/CodeClan/Csharp/helloApp/bin/Debug/netcoreapp2.2/helloApp.dll
+/Users/chris/CodeClan/Csharp/helloApp/bin/Debug/netcoreapp2.2/helloApp.pdb
+/Users/chris/CodeClan/Csharp/helloApp/obj/Debug/netcoreapp2.2/helloApp.csprojAssemblyReference.cache
+/Users/chris/CodeClan/Csharp/helloApp/obj/Debug/netcoreapp2.2/helloApp.csproj.CoreCompileInputs.cache
+/Users/chris/CodeClan/Csharp/helloApp/obj/Debug/netcoreapp2.2/helloApp.AssemblyInfoInputs.cache
+/Users/chris/CodeClan/Csharp/helloApp/obj/Debug/netcoreapp2.2/helloApp.AssemblyInfo.cs
+/Users/chris/CodeClan/Csharp/helloApp/obj/Debug/netcoreapp2.2/helloApp.dll
+/Users/chris/CodeClan/Csharp/helloApp/obj/Debug/netcoreapp2.2/helloApp.pdb

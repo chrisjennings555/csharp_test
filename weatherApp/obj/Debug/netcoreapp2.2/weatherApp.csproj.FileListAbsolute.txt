@@ -1,0 +1,11 @@
+/Users/chris/CodeClan/Csharp/weatherApp/bin/Debug/netcoreapp2.2/weatherApp.deps.json
+/Users/chris/CodeClan/Csharp/weatherApp/bin/Debug/netcoreapp2.2/weatherApp.runtimeconfig.json
+/Users/chris/CodeClan/Csharp/weatherApp/bin/Debug/netcoreapp2.2/weatherApp.runtimeconfig.dev.json
+/Users/chris/CodeClan/Csharp/weatherApp/bin/Debug/netcoreapp2.2/weatherApp.dll
+/Users/chris/CodeClan/Csharp/weatherApp/bin/Debug/netcoreapp2.2/weatherApp.pdb
+/Users/chris/CodeClan/Csharp/weatherApp/obj/Debug/netcoreapp2.2/weatherApp.csprojAssemblyReference.cache
+/Users/chris/CodeClan/Csharp/weatherApp/obj/Debug/netcoreapp2.2/weatherApp.csproj.CoreCompileInputs.cache
+/Users/chris/CodeClan/Csharp/weatherApp/obj/Debug/netcoreapp2.2/weatherApp.AssemblyInfoInputs.cache
+/Users/chris/CodeClan/Csharp/weatherApp/obj/Debug/netcoreapp2.2/weatherApp.AssemblyInfo.cs
+/Users/chris/CodeClan/Csharp/weatherApp/obj/Debug/netcoreapp2.2/weatherApp.dll
+/Users/chris/CodeClan/Csharp/weatherApp/obj/Debug/netcoreapp2.2/weatherApp.pdb
